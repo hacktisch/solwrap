@@ -1,0 +1,24 @@
+{
+  "name": "solwrap",
+  "version": "1.0.0",
+  "description": "Inline solidity imports from node_modules (e.g. from @openzeppelin/contracts)",
+  "main": "index.js",
+  "repository": "github:hacktisch/solwrap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "solidity",
+    "sol",
+    "wrap",
+    "wrapper",
+    "flatten",
+    "inline",
+    "imports",
+    "import",
+    "openzeppelin",
+    "ethereum"
+  ],
+  "author": "Merijn van Wouden",
+  "license": "MIT"
+}
